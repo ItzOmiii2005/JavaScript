@@ -25,3 +25,4 @@ console.log("level 3");
 console.group();
 console.groupCollapsed();
 console.groupEnd();
+console.trace();
