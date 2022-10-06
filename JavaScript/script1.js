@@ -13,4 +13,15 @@ console.warn("This is warning in the console by Harsh Kale!");
 console.assert(20>87, "This is false!");
 console.timeEnd("This Code!");
 // console.clear();
-// console.count(); //shows how many default states are there.
+console.count(); //shows how many default states are there.
+// console.countReset();
+// console.dir({harsh: 'me', marks: 'good'})
+console.info("this is the information to you by harsh kale");
+console.log("level 1");
+console.group();
+console.log("level 2");
+console.group();
+console.log("level 3");
+console.group();
+console.groupCollapsed();
+console.groupEnd();
